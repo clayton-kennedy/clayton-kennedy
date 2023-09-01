@@ -10,12 +10,13 @@ Acadêmico em Tec. Análise e Desenvolvimento de Sistemas, estou interessado em 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+  
 ## Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/clayton-kennedy-passos-dos-reis-8326b899/)
 [![Instagram](https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram&logoColor=30A3DC)](https://www.instagram.com/claytonkennedy_)
 <a href="mailto:clayton-kennedy@hotmail.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/mail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=White" /></a>
-[![Github](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/clayton-kennedy)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logoColor=30A3DC)](https://www.dio.me/users/clayton-kennedy)
+
 
 ## Informações adicionais:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clayton-kennedy&layout=compact)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=clayton-kennedy&color=0e14c2" alt="Profile views" />
