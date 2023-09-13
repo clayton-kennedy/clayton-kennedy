@@ -8,11 +8,11 @@ Acadêmico em Tec. Análise e Desenvolvimento de Sistemas, e estou extremamente 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
 ## Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/clayton-kennedy-passos-dos-reis-8326b899/)
-[![Instagram](https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram&logoColor=30A3DC)](https://www.instagram.com/claytonkennedy_)
 <a href="mailto:clayton-kennedy@hotmail.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/mail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=White" /></a>
 
 
