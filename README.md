@@ -1,6 +1,6 @@
 # Bem vindo(a) ao meu perfil!
 
-Acadêmico em Tec. Análise e Desenvolvimento de Sistemas. Sonho ser um desenvolvedor full stack e venho trabalhando as minhas habilidades em programação com projetos pessoais e concluindo alguns cursos de tecnologia para aprender e praticar as mais diversas tecnologias de desenvolvimento.
+Acadêmico em Tec. Análise e Desenvolvimento de Sistemas. Almejo ser um desenvolvedor full stack e venho trabalhando as minhas habilidades em programação com projetos pessoais e concluindo alguns cursos de tecnologia para aprender e praticar as mais diversas tecnologias de desenvolvimento.
 
 ## Habilidades em Desenvolvimento
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,4 +19,3 @@ Acadêmico em Tec. Análise e Desenvolvimento de Sistemas. Sonho ser um desenvol
 
 ## Informações adicionais:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clayton-kennedy&layout=compact)
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=clayton-kennedy&color=0e14c2" alt="Profile views" />
