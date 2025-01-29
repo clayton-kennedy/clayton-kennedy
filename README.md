@@ -21,3 +21,4 @@ Acadêmico em Tec. Análise e Desenvolvimento de Sistemas. Almejo ser um desenvo
 
 ## Informações adicionais:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clayton-kennedy&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
